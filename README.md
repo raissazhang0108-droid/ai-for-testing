@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="PRs Welcome">
-  <img src="https://shields.io" alt="Python Version">
-  <img src="https://shields.io" alt="Framework Type">
-  <img src="https://shields.io" alt="License">
+  <img src="https://shields.io" alt="PRs Welcome" />
+  <img src="https://shields.io" alt="Python Version" />
+  <img src="https://shields.io" alt="Framework Type" />
+  <img src="https://shields.io" alt="License" />
 </p>
 
 **AI-TestSphere** is a next-generation, full-stack automation testing framework driven by Large Language Models (LLMs). It breaks the constraints of traditional automation testing—such as high maintenance costs and fragile script locators—by injecting AI into every phase of the testing lifecycle.
