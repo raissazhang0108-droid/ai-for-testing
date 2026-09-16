@@ -1,4 +1,4 @@
-# AI-TestSphere
+# AI-For-Testing
 
 <p align="right">
   <b>English</b> | <a href="./README_CN.md">简体中文</a>
